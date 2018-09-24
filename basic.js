@@ -9,6 +9,5 @@ el.addEventListener("click", function(event, docu){
   else{
     console.info("Nos mantenemos en espera...");
   }
-  
-  
+  //Añadiendo comentarios y user info.
 });
