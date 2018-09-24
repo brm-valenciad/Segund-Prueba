@@ -10,4 +10,9 @@ el.addEventListener("click", function(event, docu){
     console.info("Nos mantenemos en espera...");
   }
   //Añadiendo comentarios y user info.
+
+  for (var i = 0; i <= 5; i++) {
+  	var item = "item-menu"+i;
+  		console.warn(item);
+  };
 });
